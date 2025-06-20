@@ -1,0 +1,19 @@
+# Nooit uploaden:
+.env
+*.key
+*.pem
+
+# Dependency folders:
+node_modules/
+vendor/
+
+# Log- en cachebestanden:
+*.log
+.cache/
+dist/
+build/
+
+# IDE bestanden:
+.vscode/
+.idea/
+.DS_Store
